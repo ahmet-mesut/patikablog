@@ -1,0 +1,6 @@
+# Mutlak değer 
+Mutlak değer, bir sayının pozitif ve negatif olmak üzere iki tane kendisine eşit sayı olmadığı durumda, sayının mutlak değeri, sayının pozitif eşi kadar büyük olur. Örneğin, -5 sayısının mutlak değeri 5'tir. Matematikte, mutlak değer işareti olarak "|" işareti kullanılır. Örneğin, |-5| = 5 ve |5| = 5 olur.
+
+Matematikte, mutlak değer işareti bir sayının pozitif veya negatif olma durumunu gösterir. Eğer sayı pozitifse mutlak değeri kendisi kadar büyüktür, eğer sayı negatifse mutlak değeri kendisinin negatif eşi kadar büyüktür. Örneğin, |-5| = 5 ve |5| = 5 olur.
+
+Mutlak değer fonksiyonu, bir sayının mutlak değerini hesaplamak için kullanılır. Örneğin, f(x) = |x| fonksiyonu, bir sayı x için mutlak değerini hesaplar. Bu fonksiyon, x pozitifse x'i, x negatifse -x'i döndürür. Örneğin, f(3) = 3, f(-3) = 3 olur.
